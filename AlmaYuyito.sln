@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmaYuyito", "AlmaYuyito\AlmaYuyito.csproj", "{15D7BE56-CF2E-45C3-9B2A-E3067A85A92C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibYuyiyo", "LibYuyiyo\LibYuyiyo.csproj", "{3BC2C89B-1A5D-419C-9B6C-FE2488F6A844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D7BE56-CF2E-45C3-9B2A-E3067A85A92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D7BE56-CF2E-45C3-9B2A-E3067A85A92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D7BE56-CF2E-45C3-9B2A-E3067A85A92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D7BE56-CF2E-45C3-9B2A-E3067A85A92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC2C89B-1A5D-419C-9B6C-FE2488F6A844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC2C89B-1A5D-419C-9B6C-FE2488F6A844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC2C89B-1A5D-419C-9B6C-FE2488F6A844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC2C89B-1A5D-419C-9B6C-FE2488F6A844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E5080A-AFA2-4EA6-9C5B-4F3E7F870D5B}
+	EndGlobalSection
+EndGlobal

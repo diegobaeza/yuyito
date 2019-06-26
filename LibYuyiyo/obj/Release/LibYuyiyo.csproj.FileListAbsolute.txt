@@ -1,0 +1,6 @@
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\bin\Release\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\bin\Release\LibYuyiyo.pdb
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\obj\Release\LibYuyiyo.csprojAssemblyReference.cache
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\obj\Release\LibYuyiyo.csproj.CoreCompileInputs.cache
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\obj\Release\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\LibYuyiyo\obj\Release\LibYuyiyo.pdb

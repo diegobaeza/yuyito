@@ -1,0 +1,420 @@
+
+#form1 {
+    width: 100%;
+    height: 100%;
+    background: #65ADF8 !important;
+}
+
+#form1 > h1{
+    text-align: center;
+    font-weight: 600;
+    font-family:sans-serif;
+    margin-top:2.5%;
+    width:40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#form1 > h1::after{
+    background: none repeat scroll 0 0 #0059b6;
+     bottom: -10px;
+     content: "";
+     display: block;
+     height: 0.3rem;
+     position: relative;
+     width: 100%;
+     border-radius: 2px;
+     margin-bottom: 2rem;
+}
+
+#form1 > section {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin-top: 5%;
+}
+
+#form1 > section > div > input {
+    background: #0059b6;
+    color: white;
+    border: 0;
+    padding: 0.3rem 1rem;
+    border-radius: 5%;
+}
+
+#form1 > section > div > input:hover {
+    background: #027BF9;
+    -webkit-box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+    box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+}
+
+#form1 > section > ul {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0px;
+    width: 30%;
+}
+
+#form1 > section > ul > li{
+    display: flex;
+    justify-content:space-between;
+    margin: 2% 0%;
+    align-items:center;
+}
+
+#form1 > section > ul > li > p{
+    margin: auto;
+    font-weight: 600;
+}
+
+#form1 > section > ul > li > input{
+    border-radius: 5%;
+}
+#form1 > div > table{
+    margin:auto;
+    text-align: center;
+    -webkit-box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+    box-shadow: 0px 13px 30px -10px rgba(0,0,0,0.75);
+}
+#MainContent_ddRubro{
+    margin:auto;
+}
+
+html, body {
+    height: 100%;
+}
+
+#nav-superior {
+    width: 100%;
+    background: #0059b6;
+    height: 3rem;
+}
+
+#contenedor-pagina {
+    width: 100%;
+    height: 100%;
+    background: #65ADF8;
+}
+
+#nav-lateral {
+    width: 15rem;
+    height: 100%;
+    background: #0059b6;
+    transition: width .3s ease;
+}
+
+#contenido {
+    width: 100%;
+    height: 100%;
+    background: #65ADF8;
+}
+
+#icono-collapsable{
+	display: none;
+	background: transparent !important;
+}
+
+#icono-flecha{
+    color: white;
+}
+
+
+#logo{
+	background: white;
+	width: 20%;
+	margin: 1%;
+}
+
+#nav-cuenta {
+    background: #0059b6;
+    width: 20%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: auto;
+}
+
+#nav-cuenta > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color: white;
+}
+
+#nav-cuenta > ul > li > a{
+    color: white;
+}
+
+#nav-cuenta > ul > li > a:hover{
+    color: #ccc;
+}
+
+
+#nav-lateral > nav {
+    margin: 0% 0%;
+    width: 100%;
+    height: auto;
+    background: #0059b6;
+}
+
+
+#btn-menu:active #nav-lateral{
+	width: 10%;
+}
+
+.nav-abierto{
+	display: block !important;
+}
+
+.nav-cerrado{
+	display: none !important;
+}
+
+#boton-aside{
+	display: block;
+	height: 2.5rem;
+}
+
+#boton-aside > button{
+	background: transparent;
+	border: 0px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: 5%;
+	display: flex;
+}
+
+#boton-aside > button > i, #btn-menu > i{
+	font-size: 40px;
+	
+}
+
+#btn-menu{
+	border: 0px;
+	background-color: transparent;
+}
+
+#btn-menu:hover > i{
+	color: #eee;
+}
+
+#btn-menu:active > i{
+	color: #ccc;
+}
+
+#btn-menu > i{
+	color: white;
+	font-size: 30px;
+}
+
+.invertir{
+	-moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+#ul-lateral > li {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.5em;
+    padding:2% 0%;
+}
+
+#ul-lateral > li:active > ul {
+   
+}
+
+#ul-lateral > li > ul{
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+    background: #00468E;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+}
+
+.sub-menu{
+    display: none;
+}
+.sub-menu > li {
+    padding: 2% 0%;
+}
+
+.sub-menu > li:hover{
+    background: #007DFF !important;
+}
+
+.sub-menu > li > a{
+    text-decoration: none;
+    color: white;
+}
+
+.sub-menu > li > a:hover {
+    background: #007DFF !important;
+}
+
+.sub-menu > li > a > p {
+    margin: 0px;
+}
+#ul-lateral > li > a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    color: white !important;
+    padding: 0% 5%;
+}   
+
+#ul-lateral > li > a:hover {
+    background: #007DFF;
+    text-decoration: none;
+}    
+
+
+
+#ul-lateral > li > a > p {
+    margin: 5% 0%;
+    margin-left: 3%;
+}    
+
+#ul-lateral > li > i{
+}
+
+.hidden{
+    display:none;
+}
+
+.show{
+    display: block;
+}
+
+.v-zero {
+    visibility: hidden;
+    transition: all 0.3s ease-in-out 0s, visibility 0s linear 0.3s, z-index 0s linear 0.01s;
+}
+
+.v-visible {
+    visibility: visible; /* shows sub-menu */
+    opacity: 1;
+    z-index: 1;
+    transform: translateY(0%);
+    transition-delay: 0s, 0s, 0.3s;
+}
+
+.item-menu-icon {
+}
+
+.icon-semi-collapse {
+    font-size: 35px;
+    margin: auto;
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+.item-menu-text {
+    transition: width .3s ease;
+}
+
+#logo {
+    background: #0059b6;
+    width: 10%;
+    margin: 0% 2%;
+    text-align: center;
+}
+
+#logo > img {
+    height: 100%;
+    width: auto;
+}
+
+@media only screen and (max-width: 479px) {
+
+    #nav-cuenta > ul {
+        padding-left: 0px;
+    }
+	#contenido{
+		width: 100% !important;
+	}
+
+    #icono-collapsable {
+        display: block !important;
+        width: 15% !important;
+        margin: 1% !important;
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+    }
+
+	#logo{
+		width: 30% !important;
+	}	
+
+
+
+	#boton-aside{
+		display: none !important;
+	}
+
+	#nav-lateral{
+		display: none;
+		width: 100% !important;
+	}
+
+}
+
+
+@media only screen and (min-width: 479px)  and (max-width: 768px){
+	
+
+	#nav-lateral{
+		display: none;
+		width: 40% !important;
+	}
+
+	#boton-aside{
+		display: none !important;
+	}
+
+	#contenido{
+		width: 100% !important;
+	}
+
+    #icono-collapsable {
+        display: block !important;
+        width: 5% !important;
+        margin: 1% !important;
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+    }
+	
+	#logo{
+		width: 20% !important;
+		margin: 1% !important;
+	}
+
+    #nav-cuenta {
+        width: 20% !important;
+        margin: 1% !important;
+        margin-left: auto !important;
+        margin-top: 0px !important;
+    }
+}
+
+
+@media only screen and (min-width: 800px){
+	#nav-lateral{
+		display: block !important;
+
+	}
+}
+
+

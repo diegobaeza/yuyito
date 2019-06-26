@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="AlmaYuyito.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" runat=server href="/css/styles.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <header id="nav-superior" class="d-flex flex-row" >
+      <div id="icono-collapsable">
+        <button id="btn-menu" onclick="openNav()"><i id="icono-col" class="fas fa-bars"></i></button>
+      </div>
+
+      <div id="logo">
+          <a href="default.aspx"><img id="img-logo" class="img-fluid" src="img/cooltext322253378482468.png"/></a>
+      </div>
+
+      <nav id="nav-cuenta">
+        <ul>
+            <li>
+                <a href="#"><i class="fas fa-user"></i></a>
+            </li>
+            <li>
+                <a href="#"><i class="fas fa-sign-out-alt"></i></a>
+            </li>
+        </ul>
+      </nav>
+
+
+    </header>
+    <div id="contenedor-pagina" class="h-100 d-flex flex-row">
+      <aside id="nav-lateral">
+        <div id="boton-aside">
+          <button onclick="semiColapsar()"><i id="icono-flecha" class="invertir fas fa-arrow-circle-right"></i></button>
+        </div>
+
+        <nav id="menu-lateral">
+          <ul id="ul-lateral" class="list-group" style="list-style: none;">
+              <li>
+                  <a id="m-proveedores" onclick="mostrarSubmenu('sub-proveedores')" href="#"><i class="item-menu-icon fas fa-truck-moving"></i><p class="item-menu-text">Proveedores</p></a>
+
+                  <ul id="sub-proveedores" class="sub-menu">
+                      <li>
+                          <a href="agregarProveedor.aspx"><p class="item-menu-text">Agregar</p></a>
+                      </li>
+                      <li>
+                          <a href="listarProveedores.aspx"><p class="item-menu-text">Listar</p></a>
+                      </li>
+                      <li>
+                          <a href="#"><p class="item-menu-text">Ordenes de Pedido</p></a>
+                      </li>
+                  </ul>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-users"></i><p class="item-menu-text">Clientes</p></a>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-shopping-cart"></i><p class="item-menu-text">Ventas</p></a>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-box-open"></i><p class="item-menu-text">Productos</p></a>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-poll"></i><p class="item-menu-text">Estadisticas</p></a>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-users-cog"></i><p class="item-menu-text">Usuarios</p></a>
+              </li>
+              <li>
+                  <a href="#"><i class="item-menu-icon fas fa-user-tag"></i><p class="item-menu-text">Empleados</p></a>
+              </li>
+              <li>
+                  <a href="#"  id="m-rubros" onclick="mostrarSubmenu('sub-rubros')" ><i class="item-menu-icon fas fa-user-tag"></i><p class="item-menu-text">Rubros</p></a>
+
+                  <ul id="sub-rubros" class="sub-menu">
+                      <li>
+                          <a href="agregarRubro.aspx"><p class="item-menu-text">Agregar</p></a>
+                      </li>
+                      <li>
+                          <a href="listarRubros.aspx"><p class="item-menu-text">Listar</p></a>
+                      </li>
+                      
+                  </ul>
+              </li>
+          </ul>
+        </nav>
+      </aside>
+
+      <form id="form1" runat="server">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+      </form>
+    </div>
+    
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,296 @@
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll.config
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.pdb
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe.config
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.rsp
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe.config
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.rsp
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.AppContext.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Console.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Compression.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Claims.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.ValueTuple.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe.config
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.rsp
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csprojAssemblyReference.cache
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CoreCompileInputs.cache
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CopyComplete
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.pdb
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.pdb
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll.config
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.pdb
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe.config
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.rsp
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe.config
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.rsp
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.AppContext.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Console.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Compression.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Claims.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.ValueTuple.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe.config
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.rsp
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.pdb
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csprojAssemblyReference.cache
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CopyComplete
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.dll
+C:\Users\Informatica\Desktop\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.pdb
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll.config
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.pdb
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe.config
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.rsp
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe.config
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.rsp
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.AppContext.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Console.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Compression.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Claims.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.ValueTuple.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe.config
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.rsp
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.pdb
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csprojAssemblyReference.cache
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CoreCompileInputs.cache
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CopyComplete
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.pdb
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.dll
+C:\Users\diegobaezaj\source\repos\TestYuyito\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.xml
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll.config
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.pdb
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe.config
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.rsp
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe.config
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.rsp
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.AppContext.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Console.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe.config
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.rsp
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.pdb
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.xml
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csprojAssemblyReference.cache
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CopyComplete
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.dll
+C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.pdb
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll.config
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\AlmaYuyito.pdb
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.exe.config
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csc.rsp
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.exe.config
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\csi.rsp
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.Managed.Core.targets
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.AppContext.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Console.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Compression.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.IO.Pipes.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.AccessControl.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Claims.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Security.Principal.Windows.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.ValueTuple.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.exe.config
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\vbc.rsp
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\LibYuyiyo.pdb
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.csproj.CopyComplete
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.dll
+\\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\AlmaYuyito\obj\Debug\AlmaYuyito.pdb
