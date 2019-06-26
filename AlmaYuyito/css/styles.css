@@ -475,4 +475,88 @@ table > tbody > tr > td > a:hover {
 	}
 }
 
+#fiado{
+    font-size: 1.2em;
+}
+#listaClientes{
+    display: none;
+}
 
+#MainContent_txtTotal{
+    max-width: 40%;
+    margin-right: auto !important;
+}
+
+#total > input, #total > p {
+    background: transparent !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    text-align: center;
+    font-size: 1.6em;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+#total > input:hover{
+    background: transparent !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    font-size: 1.6em;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+#total {
+    display: flex;
+    text-align: center;
+}
+#total > p{
+    margin-left: auto !important;
+}
+#total > input {
+    text-align: left;
+}
+
+#sign{
+   text-align:right;
+}
+
+
+#panel-superior-ventas{
+    display: flex;
+    align-content: space-between;
+    text-align:center;
+    margin-bottom: 5%;
+}
+
+#panel-superior-ventas > ul {
+    list-style: none;
+    margin:auto;
+    padding: 0px;
+}
+
+#panel-superior-ventas > div {
+    text-align: center;
+    margin:auto;
+}
+
+#panel-superior-ventas > div > div, #panel-superior-ventas > div > input {
+    margin: 2% 0%;
+}
+
+#panel-superior-ventas > ul > li {
+    margin: 4% auto;
+    display:flex;
+    flex-direction:column;
+    max-width: 70%;
+}
+
+p{
+    margin-bottom: 0.5rem;
+}

@@ -43,8 +43,8 @@ namespace LibYuyiyo.DAO
 
         public static int sqlAgregar(Boleta boleta)
         {
-            String sql = string.Format("Insert into Boleta (Fecha, Total, Direccion, Telefono, Fiado, Usuario_id, Cliente_id) values('{0}','{1}','{2}','{3}','{4}','{5}','{6}')",
-                                                            boleta.Fecha,
+            String sql = string.Format("Insert into Boleta (Fecha, Total, Direccion, Telefono, Fiado, Usuario_id, Cliente_id) values('{0}','{1}','{2}','{3}','{4}','{5}','{6}') SELECT SCOPE_IDENTITY()",
+                                                            boleta.Fecha.ToString("yyyy/MM/dd"),
                                                             boleta.Total,
                                                             boleta.Direccion,
                                                             boleta.Telefono,
@@ -52,7 +52,7 @@ namespace LibYuyiyo.DAO
                                                             boleta.Usuario_id,
                                                             boleta.Cliente_id
                                                             );
-            int respuesta = BD.BD.getInstance().sqlEjecutar(sql);
+            int respuesta = BD.BD.getInstance().sqlEjecutarConRetorno(sql);
             return respuesta;
         }
         public static int sqlActualizar(Boleta boleta)

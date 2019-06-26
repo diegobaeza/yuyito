@@ -17,6 +17,7 @@ namespace AlmaYuyito
             DataTable dt = NegProveedor.listarProveedores();
             gvProveedores.DataSource = dt;
             gvProveedores.DataBind();
+
         }
 
 

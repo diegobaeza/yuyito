@@ -38,6 +38,13 @@ namespace LibYuyiyo.BD
             return cmd.ExecuteNonQuery();            
             
         }
+
+        public int sqlEjecutarConRetorno(String sql)
+        {
+            SqlCommand cmd = new SqlCommand(sql, cnn);
+            return int.Parse(cmd.ExecuteScalar().ToString());
+
+        }
         private void open()
         {
             cnn = new SqlConnection();

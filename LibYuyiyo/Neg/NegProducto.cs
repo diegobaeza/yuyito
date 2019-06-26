@@ -64,13 +64,20 @@ namespace LibYuyiyo.Neg
         public static Producto buscarProducto(Producto producto)
         {
             DataTable dt = DaoProducto.sqlLeer(producto);
-
-            Producto pv = new Producto(int.Parse(dt.Rows[0]["Id"].ToString()),
-                                        dt.Rows[0]["Descripcion"].ToString(),
-                                        DateTime.Parse(dt.Rows[0]["Fecha_vencimiento"].ToString()),
-                                        int.Parse(dt.Rows[0]["Precio"].ToString()),
-                                        int.Parse(dt.Rows[0]["Stock"].ToString()),
-                                        int.Parse(dt.Rows[0]["Tipo_producto_id"].ToString()));
+            Producto pv;
+            if (dt.Rows.Count > 0)
+            {
+                pv = new Producto(int.Parse(dt.Rows[0]["Id"].ToString()),
+                                       dt.Rows[0]["Descripcion"].ToString(),
+                                       DateTime.Parse(dt.Rows[0]["Fecha_vencimiento"].ToString()),
+                                       int.Parse(dt.Rows[0]["Precio"].ToString()),
+                                       int.Parse(dt.Rows[0]["Stock"].ToString()),
+                                       int.Parse(dt.Rows[0]["Tipo_producto_id"].ToString()));
+            }
+            else
+            {
+                pv = null;
+            }
 
             return pv;
 
@@ -81,6 +88,7 @@ namespace LibYuyiyo.Neg
             return DaoProducto.sqlLeerConTipoProducto();
 
         }
+
 
         public static bool EliminarProducto(Producto producto)
         {

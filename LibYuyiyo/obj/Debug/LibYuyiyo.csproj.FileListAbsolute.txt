@@ -28,3 +28,9 @@ C:\Users\Ariel\Downloads\AlmaYuyito\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.pdb
 \\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.dll
 \\Mac\Home\Desktop\Versiones Yuyito\Yuyito Ariel\AlmaYuyitov2\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.pdb
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\bin\Debug\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\bin\Debug\LibYuyiyo.pdb
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.csprojAssemblyReference.cache
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.csproj.CoreCompileInputs.cache
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.dll
+C:\Users\diegobaezaj\source\repos\AlmaYuyito(20-06)\AlmaYuyito\LibYuyiyo\obj\Debug\LibYuyiyo.pdb

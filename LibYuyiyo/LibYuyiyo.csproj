@@ -48,6 +48,7 @@
     <Compile Include="DAO\DaoCliente.cs" />
     <Compile Include="DAO\DaoDetalleOrden.cs" />
     <Compile Include="DAO\DaoDetalleVenta.cs" />
+    <Compile Include="DAO\DaoEstadisticas.cs" />
     <Compile Include="DAO\DaoOrdenProducto.cs" />
     <Compile Include="DAO\DaoProducto.cs" />
     <Compile Include="DAO\DaoProveedor.cs" />
@@ -65,7 +66,9 @@
     <Compile Include="Entidades\TipoUsuario.cs" />
     <Compile Include="Entidades\Usuario.cs" />
     <Compile Include="Helper\JSONHelper.cs" />
+    <Compile Include="Neg\NegBoleta.cs" />
     <Compile Include="Neg\NegCliente.cs" />
+    <Compile Include="Neg\NegEstadisticas.cs" />
     <Compile Include="Neg\NegOrdenProducto.cs" />
     <Compile Include="Neg\NegUsuario.cs" />
     <Compile Include="Neg\NegProducto.cs" />

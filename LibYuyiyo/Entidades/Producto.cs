@@ -34,6 +34,14 @@ namespace LibYuyiyo.Entidades
 			
         }
 
+        public Producto(int id, string descripcion, int stock, int precio)
+        {
+            this.Id = id;
+            this.Descripcion = descripcion;
+            this.Precio = precio;
+            this.Stock = stock;
+        }
+
         public Producto(string descripcion, DateTime fecha_vencimiento, int precio, int stock, int tipo_producto_id)
         {
             this.Descripcion = descripcion;

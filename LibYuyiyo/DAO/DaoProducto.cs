@@ -17,7 +17,15 @@ namespace LibYuyiyo.DAO
         }
         public static DataTable sqlLeer(Producto producto)
         {
-            String sql = String.Format("select * from Producto where Id = '{0}'", producto.Id);
+            String sql;
+
+            if (producto.Id > 0)
+            {
+                sql = String.Format("select * from Producto where Id = '{0}'", producto.Id);
+            }else {
+                sql = String.Format("select * from Producto where Descripcion = '{0}'", producto.Descripcion);
+            }
+
             return BD.BD.getInstance().sqlLeer(sql);
         }
 

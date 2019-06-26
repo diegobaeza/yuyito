@@ -90,6 +90,7 @@
     <Content Include="listarProveedores.aspx" />
     <Content Include="listarRubros.aspx" />
     <Content Include="nuevoUsuario.aspx" />
+    <Content Include="realizarVenta.aspx" />
     <Content Include="Web.config" />
     <Content Include="css\styles.css" />
     <Content Include="img\logo.png" />
@@ -182,6 +183,13 @@
       <DependentUpon>nuevoUsuario.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="realizarVenta.aspx.cs">
+      <DependentUpon>realizarVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="realizarVenta.aspx.designer.cs">
+      <DependentUpon>realizarVenta.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Master.Master" />

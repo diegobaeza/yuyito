@@ -141,7 +141,7 @@ function float2dollar(value) {
 }
 
 
-function crearChartLine() {
+function crearChartLine(datosVentas) {
     // chart colors
     var colors = ['#007bff', '#28a745', '#333333', '#c3e6cb', '#dc3545', '#6c757d'];
 
@@ -155,29 +155,31 @@ function crearChartLine() {
             data: {
                 labels: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
                 datasets: [{
-                    data: [750, 445, 483, 503, 689, 692, 634, 700, 445, 483, 503, 689],
-                    backgroundColor: '#f8b065',
+                    data: datosVentas,
+                    backgroundColor: '#3493f6',
                     borderColor: '#007bff',
-                    borderWidth: 1,
+                    borderWidth: 3,
                     pointBackgroundColor: '#007bff',
-                    pointHoverRadius: 20
+                    pointHoverRadius: 15,
+                    hitRadius: 20,
+                    radius: 10
                 }]
             },
             options: {
                 title: {
                     display: true,
-                    text: 'Grafico Ingresos',
+                    text: 'Ingresos por Mes',
                     fontSize: 60,
                     fontColor: "white"
                 },
                 scales: {
                     yAxes: [{
                         ticks: {
-                            beginAtZero: false,
+                            beginAtZero: true,
                             callback: function (value, index, values) {
-                                return float2dollar(value);
+                                return "$"+value;
                             },
-                            fontSize: 40,
+                            fontSize: 30,
                             fontColor: "white"
                         }
                     }],
@@ -192,12 +194,28 @@ function crearChartLine() {
                 legend: {
                     display: false
                     
+                },
+                tooltips: {
+                    titleFontSize: 30,
+                    bodyFontSize: 30,
+                    callbacks: {
+                        label: function (tooltipItems, data) {
+                            return "$" + tooltipItems.yLabel.toString();
+                        }
+                    }
                 }
             }
         });
     }
 
 
+    
+
+
+    
+}
+
+function crearChartBar() {
     var ch = document.getElementById("chBar");
 
     if (ch) {
@@ -228,7 +246,7 @@ function crearChartLine() {
                             callback: function (value, index, values) {
                                 return float2dollar(value);
                             },
-                            fontSize: 40,
+                            fontSize: 30,
                             fontColor: "white"
                         }
                     }],
@@ -243,12 +261,17 @@ function crearChartLine() {
                 legend: {
                     display: false
 
+                },
+                tooltips: {
+                    titleFontSize: 30,
+                    bodyFontSize: 30
                 }
             }
         });
     }
+}
 
-
+function crearChartPie(nombres, cantidades) {
     var ch = document.getElementById("chPie");
 
     if (ch) {
@@ -256,10 +279,10 @@ function crearChartLine() {
         new Chart(ch, {
             type: 'pie',
             data: {
-                labels: ['Producto1', 'Producto2', 'Producto3', 'Producto4', 'Producto5'],
+                labels: nombres,
                 datasets: [{
-                    data: [750, 445, 483, 503],
-                    backgroundColor: '#f8b065',
+                    data: cantidades,
+                    backgroundColor: ["#f8b065", "#f86765", "#6765f8", "#b065f8", "#65f8b0"],
                     borderColor: '#007bff',
                     borderWidth: 1,
                     pointBackgroundColor: '#007bff',
@@ -270,26 +293,40 @@ function crearChartLine() {
             options: {
                 title: {
                     display: true,
-                    text: 'Grafico Productos',
+                    text: 'Productos Populares',
                     fontSize: 60,
                     fontColor: "white"
                 },
                 scales: {
                     yAxes: [{
                         ticks: {
-                            
+
                             fontSize: 0
+                        },
+                        gridLines: {
+                            display: false
                         }
                     }],
-                    zAxes: [{
+                    xAxes: [{
                         ticks: {
 
                             fontSize: 0
+                        },
+                        gridLines: {
+                            display: false
                         }
                     }]
                 },
                 legend: {
-                    display: false
+                    display: true,
+                    labels: {
+                        fontColor: "white",
+                        fontSize: 30
+                    }
+                },
+                tooltips: {
+                    titleFontSize: 30,
+                    bodyFontSize: 30
                 }
             }
         });
@@ -297,43 +334,3 @@ function crearChartLine() {
 }
 
 
-
-function crearChartPie() {
-    // chart colors
-    var colors = ['#007bff', '#28a745', '#333333', '#c3e6cb', '#dc3545', '#6c757d'];
-
-    /* large line chart */
-    var ch = document.getElementById("chLine");
-
-    if (ch) {
-
-        new Chart(ch, {
-            type: 'line',
-            data: {
-                labels: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
-                datasets: [{
-                    data: [750, 445, 483, 503, 689, 692, 634, 700, 445, 483, 503, 689],
-                    backgroundColor: '#0059b6',
-                    borderColor: '#007bff',
-                    borderWidth: 1,
-                    pointBackgroundColor: '#007bff'
-                }]
-            },
-            options: {
-                scales: {
-                    yAxes: [{
-                        ticks: {
-                            beginAtZero: false,
-                            callback: function (value, index, values) {
-                                return float2dollar(value);
-                            }
-                        }
-                    }]
-                },
-                legend: {
-                    display: false
-                }
-            }
-        });
-    }
-}
